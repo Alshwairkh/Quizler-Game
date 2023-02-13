@@ -11,6 +11,6 @@ In this project I learned:
 
 
 <p align="center">
-  <img alt="Light" src="demo4.png" width="35%">
+  <img alt="Light" src="demo5.png" width="35%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
